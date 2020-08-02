@@ -1,2 +1,2 @@
 # dolphyNet_awsDocker
-version deployed in docker instance on AWS 
+version deployed in docker image on AWS
