@@ -1,2 +1,2 @@
-# dolphyNet_awsDocker
-version deployed in docker image on AWS
+# Dolphy_Network_Analysis
+Network analysis of Eric Dolphy Discography. 
